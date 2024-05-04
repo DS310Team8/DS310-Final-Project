@@ -1,0 +1,9 @@
+{
+	"name": "team8-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6cab66eb-0e46-48d4-9a71-d441711868e2",
+		"tenantId": "d57d32cc-c121-488f-b07b-dfe705680c71"
+	}
+}
